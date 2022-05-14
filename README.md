@@ -46,7 +46,7 @@ at: [https://shopify-backend-challenge.nikolasnorth.repl.co](https://shopify-bac
 The repl can be found
 at: [https://replit.com/@NikolasNorth/shopify-backend-challenge](https://replit.com/@NikolasNorth/shopify-backend-challenge)
 
-API routes can be accessed under `/api`.
+API routes can be accessed under `/api/v1`.
 
 ## Local Setup Instructions
 
